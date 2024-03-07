@@ -23,7 +23,7 @@ Currently, I am intensively studying techniques and tools by attending online co
 
 # CV
 
-You can download my CV as a PDF file from my Google Drive.
+You can download my CV as [a PDF file from my Google Drive.](https://drive.google.com/file/d/1e75PAAs8WA9ZALiBxkvfz4R-dqAVd3Yi/view?usp=share_link)
 
 # Skills
 
@@ -60,7 +60,7 @@ You can download my CV as a PDF file from my Google Drive.
 
 **The Complete 2024 Software Testing Bootcamp**  
 _online courses by Nezam Academy, Udemy_  
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.  
+A comprehensive course in quality assurance, covering skills in functional testing and test automation.  
 _Automation testing in progress_
 
 **Course on Software Testing and QA. From Zero To Pro**  
