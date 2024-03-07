@@ -1,4 +1,4 @@
-Portfolio
+# Portfolio
 - About me
 - CV
 - Skills
@@ -7,7 +7,7 @@ Portfolio
 
 
   
-- About me
+# About me
 
 👋 Hello there! I'm Tatiana, a results-driven professional with a diverse background in Digital Marketing. Building upon my academic background, I'm currently on a path of transition into software testing which is driven by a desire for continuous growth and a commitment to embracing new challenges.
 
@@ -21,48 +21,48 @@ Currently, I am intensively studying techniques and tools by attending online co
 
 📫 How to reach me: inttnirl2016@gmail.com
 
-- CV
+# CV
 
 You can download my CV as a PDF file from my Google Drive.
 
-- Skills
+# Skills
 
-Manual testing
+**Manual testing**
 
 - gained hands-on experience by testing applications created for educational purposes
 
-Test documentation
+**Test documentation**
 
 - can create test cases and checklists
 
-Python fundamentals
+**Python fundamentals**
 
 - can write simple functions and algorithms
 - know when to use for and while
 - able to comprehend easy codes
 
-SQL databases
+**SQL databases**
 
 
-- Tools
+# Tools
   
-Jira
+**Jira**
 - know how to create bug reports
 - able to create projects and track their progress
 
-Trello and Notion
+**Trello and Notion**
 - know how to use Kanban boards and track project progress
 
-Mind maps & diagrams
+**Mind maps & diagrams**
 - know how to design beautifully simple mind maps
 
-- Courses
+# Courses
 
-The Complete 2024 Software Testing Bootcamp
-online courses by Nezam Academy, Udemy
+**The Complete 2024 Software Testing Bootcamp**
+_online courses by Nezam Academy, Udemy_
 A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.
-Level 2-4 in progress
+Automation testing in progress
 
-Course on Software Testing and QA. From Zero To Pro
-online courses by QATutor, Udemy
+**Course on Software Testing and QA. From Zero To Pro**
+_online courses by QATutor, Udemy_
 A practical course in testing and QA, that includes a Web-based training software SHARELANE.
