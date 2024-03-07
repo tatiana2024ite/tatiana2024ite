@@ -1,6 +1,6 @@
 Portfolio
 - About me
-
+- CV
   
 - About me
 
@@ -16,4 +16,48 @@ Currently, I am intensively studying techniques and tools by attending online co
 
 📫 How to reach me: inttnirl2016@gmail.com
 
+- CV
 
+You can download my CV as a PDF file from my Google Drive.
+
+- Skills
+
+Manual testing
+
+- gained hands-on experience by testing applications created for educational purposes
+
+Test documentation
+
+- can create test cases and checklists
+
+Python fundamentals
+
+- can write simple functions and algorithms
+- know when to use for and while
+- able to comprehend easy codes
+
+SQL databases
+
+
+- Tools
+  
+Jira
+- know how to create bug reports
+- able to create projects and track their progress
+
+Trello and Notion
+- know how to use Kanban boards and track project progress
+
+Mind maps & diagrams
+- know how to design beautifully simple mind maps
+
+- Courses
+
+The Complete 2024 Software Testing Bootcamp
+online courses by Nezam Academy, Udemy
+A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.
+Level 2-4 in progress
+
+Course on Software Testing and QA. From Zero To Pro
+online courses by QATutor, Udemy
+A practical course in testing and QA, that includes a Web-based training software SHARELANE.
