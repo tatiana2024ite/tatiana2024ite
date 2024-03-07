@@ -1,9 +1,9 @@
 # Portfolio
-- About me
-- CV
-- Skills
-- Tools
-- Courses
+- [About me](#about-me)
+- [CV](#cv)
+- [Skills](#skills)
+- [Tools](#tools)
+- [Courses](#courses)
 
 
   
@@ -58,11 +58,11 @@ You can download my CV as a PDF file from my Google Drive.
 
 # Courses
 
-**The Complete 2024 Software Testing Bootcamp**
-_online courses by Nezam Academy, Udemy_
-A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.
-Automation testing in progress
+**The Complete 2024 Software Testing Bootcamp**  
+_online courses by Nezam Academy, Udemy_  
+A comprehensive course (132 h) in quality assurance, covering skills in functional testing and test automation.  
+_Automation testing in progress_
 
-**Course on Software Testing and QA. From Zero To Pro**
-_online courses by QATutor, Udemy_
+**Course on Software Testing and QA. From Zero To Pro**  
+_online courses by QATutor, Udemy_  
 A practical course in testing and QA, that includes a Web-based training software SHARELANE.
