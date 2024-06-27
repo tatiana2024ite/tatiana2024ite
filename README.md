@@ -9,15 +9,13 @@
   
 # About me
 
-👋 Hello there! I'm Tatiana, a results-driven professional with a diverse background in Digital Marketing. Building upon my academic background, I'm currently on a path of transition into software testing which is driven by a desire for continuous growth and a commitment to embracing new challenges.
+👋 Hello there! I'm Tatiana, a results-driven professional passionate about front-end development. Building upon my academic background and professional experiences, I'm transitioning into front-end development, driven by a desire for continuous growth, a commitment to embracing new challenges, and a discovered passion for coding.
 
 💻 I hold a Bachelor's degree in International Management and a Master's degree in Digital Marketing from Technological University Dublin, Ireland.
 
+🌟 I have hands-on experience in software testing and digital marketing (graphic design, UX/UI), which has equipped me with a strong analytical and problem-solving foundation. Now, I'm channeling these skills into front-end development. I am intensively studying front-end development techniques and tools through online courses and hands-on projects.
 
-🌟 I believe that adapting to the rapidly evolving technological landscape is not only essential but also immensely rewarding.
-Currently, I am intensively studying techniques and tools by attending online courses and testing web applications created for learning purposes.
-
-🚀 I'm excited about the opportunities to grow, learn, and contribute meaningfully to software testing projects. My current career goal — to become a mid-level software tester in 2 years.
+🚀 I'm excited about the opportunities to grow, learn, and contribute meaningfully to front-end development projects.
 
 📫 How to reach me: inttnirl2016@gmail.com
 
@@ -27,13 +25,21 @@ You can download my CV as [a PDF file from my Google Drive.](https://drive.googl
 
 # Skills
 
-**Manual testing**
+**HTML**
 
-- gained hands-on experience by testing applications created for educational purposes
+- completed comprehensive coursework and practical projects
 
-**Test documentation**
+**CSSn**
 
-- can create test cases and checklists
+- completed comprehensive coursework, currently enhancing my styling and layout skills
+
+**JavaScript**
+
+- basic knowledge, learning more to build interactive web applications
+
+**Software Testing**
+
+- gained hands-on experience by testing applications
 
 **Python fundamentals**
 
@@ -43,15 +49,19 @@ You can download my CV as [a PDF file from my Google Drive.](https://drive.googl
 
 **SQL databases**
 
+- completed comprehensive coursework and practical projects, capable of database management and queries
+
 
 # Tools
   
-**Jira**
-- know how to create bug reports
-- able to create projects and track their progress
+**VS Code**
+- experienced in using Visual Studio Code for code editing and debugging
 
-**Trello and Notion**
-- know how to use Kanban boards and track project progress
+**Chrome DevTools**
+- skilled in using browser developer tools for debugging and optimizing web applications
+
+**Figma**
+- experienced in using design tools to translate designs into code
 
 **Mind maps & diagrams**
 - know how to design beautifully simple mind maps
