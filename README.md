@@ -29,7 +29,7 @@ You can download my CV as [a PDF file from my Google Drive.](https://drive.googl
 
 - completed comprehensive coursework and practical projects
 
-**CSSn**
+**CSS**
 
 - completed comprehensive coursework, currently enhancing my styling and layout skills
 
